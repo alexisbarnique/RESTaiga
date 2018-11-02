@@ -1,0 +1,10 @@
+*.idea/
+.idea
+*.pyc
+*.json
+.DS_Store
+signatures/
+statics/
+*.swp
+*.swf
+requirements.txt
